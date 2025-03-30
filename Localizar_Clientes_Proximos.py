@@ -1,3 +1,5 @@
+#Query que localiza clientes próximos através de coordenadas geográficas
+
 import geopandas as gpd
 import pandas as pd
 import matplotlib.pyplot as plt
